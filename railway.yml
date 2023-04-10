@@ -1,0 +1,3 @@
+plugins:
+  - name: railstatic
+    public_dir: .
